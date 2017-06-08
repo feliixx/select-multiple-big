@@ -2,7 +2,7 @@
 
 a small JS plugin build on top of JQuery and bootstrap to create a dropdown selector with live search that can handle very large number of items with 0 display latency. 
 
-a live demo is available here ( with 100 000 items) : [live demo](https://codepen.io/adrienpetel/pen/ZOorkZ)
+a live demo is available here ( with 100 000 items) : [live demo](https://codepen.io/adrienpetel/full/ZOorkZ/)
 
 # How to use the plugin
 
