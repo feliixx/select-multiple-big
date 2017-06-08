@@ -24,10 +24,10 @@ finally, instantiate the dropdown with some js code :
 
 ```javascript
 $('#select').selectmultiple({
-  text: 'items',   // title when no items selected 
-  data: data,      // an array of string containing the list of item to display in the dropdown
-  width: 200,      // the dropdown width
-  placeholder: 'items'  // text-search placeholder 
+  text: 'items',                          // title when no items selected 
+  data: [ "item1", "item2", "item3" ],    // an array of string containing the list of item to display in the dropdown
+  width: 200,                             // the dropdown width
+  placeholder: 'items'                    // text-search placeholder 
 });
 ```
 
